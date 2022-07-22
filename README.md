@@ -40,6 +40,6 @@ Then review the code and leave your feedback.
 
 **Wanna help more?**
 
-[Donate: 1Q9swRQuwhTtjZZ2yguFWk7m7pszknkWyk](bitcoin:1Q9swRQuwhTtjZZ2yguFWk7m7pszknkWyk)
+[Donate: bc1qj062d3w3mjefdnfh4j9xhxmrlylv3pktgdmv0n](bitcoin:bc1qj062d3w3mjefdnfh4j9xhxmrlylv3pktgdmv0n)
 
-![QR](https://btc.blockr.io/api/v1/address/Qr/1Q9swRQuwhTtjZZ2yguFWk7m7pszknkWyk)
+![QR](https://btc.blockr.io/api/v1/address/Qr/bc1qj062d3w3mjefdnfh4j9xhxmrlylv3pktgdmv0n)
